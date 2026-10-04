@@ -130,7 +130,7 @@ export default function Home() {
     setError("");
     setResult(null);
     try {
-      const res = await fetch("http://localhost:8000/plan", {
+      const res = await fetch("https://multi-agent-travel-planner-2j37.onrender.com/plan", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ request }),
