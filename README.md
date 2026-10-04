@@ -8,7 +8,7 @@ The system automatically extracts trip requirements, searches for flights, hotel
 
 **Frontend:** https://multi-agent-travel-planner-ten.vercel.app
 
-**Backend API:** https://multi-agent-travel-planner-****.onrender.com(deployed in render)
+**Backend API:** https://multi-agent-travel-planner-****.onrender.com (deployed in render)
 
 > The first request may take longer because the backend is hosted on a free-tier service and may need to wake up.
 
